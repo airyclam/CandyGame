@@ -1,0 +1,16 @@
+//Eric: Created initial game structure of kid, ghost, candy, and scoring system. 
+
+//Scott: created the controls screen, reorganized the code that Eric created so the game can be restarted. Moved code from Eric's original main program into functions to make the main function easier to navigate.
+
+Concepts Used:
+File Reading/Parsing
+Private, public member variables and member functions. 
+
+
+Game Instructions:
+Run game function.
+WASD for player 1 and IJKL for player 2 (Instructions printed when game is first run)
+Try to collect the roaming candies while avoiding obstacles like graves and ghosts!
+If you run into a ghost or grave then the other player wins.
+The player with the most candies at the end wins!
+Press R to play again. 
